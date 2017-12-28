@@ -25,6 +25,7 @@ to simply run a benchmark, and to also make sure that the graphics card driver a
 ## Brute-Force
 ### Options
 Some of the most commonly used options are as follows:
+
 Options Short, Long | Type | Description | Example
 --- | --- | --- | ---
 -m, --hash-type | Num | Hash-type, see references below | -m 1000
@@ -41,7 +42,8 @@ Options Short, Long | Type | Description | Example
 `-m` specifies the hash mode, i.e., LM(3000), NTLM(1000), MD5(0), SHA1(100);
 
 `-a` is for the attack mode, they are
-# | Mode
+
+Num | Mode
 --- | ---
 0 | Straight
 1 | Combination
@@ -52,7 +54,8 @@ Options Short, Long | Type | Description | Example
 we will use `3` Brute-force in our case;
 
 `-w` sets the workload profile
-# | Performance | Runtime | Power Consumption | Desktop Impact
+
+Num | Performance | Runtime | Power Consumption | Desktop Impact
 --- | --- | --- | --- | ---
 1 | Low         |   2 ms  | Low               | Minimal
 2 | Default     |  12 ms  | Economic          | Noticeable
@@ -64,6 +67,7 @@ You may choose the Nightmare mode if on a dedicated machine;
 `-1/2/3` creates customized charsets which can be used later in the password mask
 
 Hashcat has the following built-in charsets:
+
 ? | Charset
 --- | ---
 l | abcdefghijklmnopqrstuvwxyz
