@@ -256,6 +256,9 @@ China's first foray into global cyberspace was an email (not TCP/IP based and th
 
 而如今，GFW对互联网的封锁与干扰愈演愈烈，打脸如此，怡笑大方！
 
+__P.S. 安全起见，建议购买[VPS](https://en.wikipedia.org/wiki/Virtual_private_server)自己搭建Shadowsocks代理服务器。
+博主在用[Digital Ocean](https://m.do.co/c/de1b31930850)，最低配置5$/月，从[此链接](https://m.do.co/c/de1b31930850)注册，账户充值5$后可以获得额外10$。__
+
 ## 鸣谢
 [clowwindy](https://github.com/clowwindy)
 
