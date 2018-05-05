@@ -138,5 +138,5 @@ Google的域名诸多完全在预料之中，但巨硬的域名那么多，请�
 
 ## Reference
 
-* https://stackoverflow.com/questions/2161752/how-to-count-the-frequency-of-the-elements-in-a-list[https://stackoverflow.com/questions/2161752/how-to-count-the-frequency-of-the-elements-in-a-list]
-* https://github.com/lennylxx/ipv6-hosts/wiki/How-to-speed-up[https://github.com/lennylxx/ipv6-hosts/wiki/How-to-speed-up]
+* [https://stackoverflow.com/questions/2161752/how-to-count-the-frequency-of-the-elements-in-a-list](https://stackoverflow.com/questions/2161752/how-to-count-the-frequency-of-the-elements-in-a-list)
+* [https://github.com/lennylxx/ipv6-hosts/wiki/How-to-speed-up](https://github.com/lennylxx/ipv6-hosts/wiki/How-to-speed-up)
