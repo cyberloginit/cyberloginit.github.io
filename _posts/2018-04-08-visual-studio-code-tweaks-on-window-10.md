@@ -42,6 +42,6 @@ alias work='cd /mnt/c/Users/{username}/Documents/{work directory}'
 not supported yet:(
 
 ## References
-1. https://stackoverflow.com/questions/42606837/how-to-use-bash-on-windows-from-visual-studio-code-integrated-terminal[](https://stackoverflow.com/questions/42606837/how-to-use-bash-on-windows-from-visual-studio-code-integrated-terminal)
-2. https://code.visualstudio.com/docs/editor/integrated-terminal[](https://code.visualstudio.com/docs/editor/integrated-terminal)
-3. https://github.com/Microsoft/vscode/issues/29812[](https://github.com/Microsoft/vscode/issues/29812)
+1. [https://stackoverflow.com/questions/42606837/how-to-use-bash-on-windows-from-visual-studio-code-integrated-terminal](https://stackoverflow.com/questions/42606837/how-to-use-bash-on-windows-from-visual-studio-code-integrated-terminal)
+2. [https://code.visualstudio.com/docs/editor/integrated-terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
+3. [https://github.com/Microsoft/vscode/issues/29812](https://github.com/Microsoft/vscode/issues/29812)
