@@ -60,5 +60,5 @@ proxmark3> help
 ```
 
 ## Reference
-* https://github.com/Proxmark/proxmark3/wiki/Ubuntu-Linux/
-* http://www.proxmark.org/forum/viewtopic.php?id=1668
+* [https://github.com/Proxmark/proxmark3/wiki/Ubuntu-Linux/](https://github.com/Proxmark/proxmark3/wiki/Ubuntu-Linux/)
+* [http://www.proxmark.org/forum/viewtopic.php?id=1668](http://www.proxmark.org/forum/viewtopic.php?id=1668)
