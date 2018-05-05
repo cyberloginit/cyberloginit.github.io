@@ -14,4 +14,4 @@ for the GitHub account into `~/.ssh/`.
 That's it. Just open your favorite editor and write a new post, `git push` works like a charm!
 
 ## Reference
-* https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+* [https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
