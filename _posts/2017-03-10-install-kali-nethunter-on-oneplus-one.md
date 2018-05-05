@@ -53,5 +53,5 @@ That's it.
 You may also want to follow the [Post Installation Setup](https://github.com/offensive-security/kali-nethunter/wiki#50-post-installation-setup).
 
 ## Reference
-* https://github.com/offensive-security/kali-nethunter/wiki
-* https://forum.xda-developers.com/oneplus-one/general/guide-return-opo-to-100-stock-t2826541
+* [https://github.com/offensive-security/kali-nethunter/wiki](https://github.com/offensive-security/kali-nethunter/wiki)
+* [https://forum.xda-developers.com/oneplus-one/general/guide-return-opo-to-100-stock-t2826541](https://forum.xda-developers.com/oneplus-one/general/guide-return-opo-to-100-stock-t2826541)
