@@ -57,7 +57,7 @@ make
  
 
  ## 参考资料
- * Crazy Danish Hacker的GSM Sniffing & Hacking[YouTube](https://www.youtube.com/playlist?list=PLRovDyowOn5F_TFotx0n8A79ToZYD2lOv)视频合集
- * 雪碧 0xRoot的网站 https://cn0xroot.com
+ * Crazy Danish Hacker的GSM Sniffing & Hacking [YouTube](https://www.youtube.com/playlist?list=PLRovDyowOn5F_TFotx0n8A79ToZYD2lOv)视频合集
+ * 雪碧 0xRoot的网站 [https://cn0xroot.com](https://cn0xroot.com)
  * 中国移动维基百科[中国移动](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8)
  * 中国联通维基百科[中国联通](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A)
