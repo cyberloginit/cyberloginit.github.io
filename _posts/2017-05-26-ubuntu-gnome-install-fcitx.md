@@ -20,4 +20,4 @@ click the "+" down left of the window, untick "Only Show Current Language"(the s
 What' more, you can configure many other options there. At least we have a working Chinese IME here, and no other hacking is needed, it just works out of the box, well, almost.
 
 ## Reference
-*https://blog.yueyu.io/p/250 
+* [https://blog.yueyu.io/p/250](https://blog.yueyu.io/p/250)
