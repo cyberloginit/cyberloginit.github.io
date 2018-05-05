@@ -169,6 +169,6 @@ __注意：__ 这里的 Lhost 是 Kali Linux 攻击机的 IP 地址，Lport 与 
 希望 WannaCry 勒索病毒的爆发可以唤醒大家的安全意识，当然，也为我们这种从业者提供更多的饭碗。
 
 ## Reference
-* [PDF] https://www.exploit-db.com/docs/41896.pdf
-* https://blogs.technet.microsoft.com/msrc/2017/04/14/protecting-customers-and-evaluating-risk/
-* https://www.powershellempire.com/
+* [PDF] [https://www.exploit-db.com/docs/41896.pdf](https://www.exploit-db.com/docs/41896.pdf)
+* [https://blogs.technet.microsoft.com/msrc/2017/04/14/protecting-customers-and-evaluating-risk/](https://blogs.technet.microsoft.com/msrc/2017/04/14/protecting-customers-and-evaluating-risk/)
+* [https://www.powershellempire.com/](https://www.powershellempire.com/)
