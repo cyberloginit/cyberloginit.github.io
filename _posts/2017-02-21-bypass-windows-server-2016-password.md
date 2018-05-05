@@ -57,5 +57,5 @@ net user [用户名] [新密码]
 使用新密码登录，成功！
 
 ## 参考资料
-* https://www.lifewire.com/step-by-step-guide-to-resetting-a-windows-7-password-2626309
-* http://www.digitalcitizen.life/command-prompt-advanced-disk-management-commands
+* [https://www.lifewire.com/step-by-step-guide-to-resetting-a-windows-7-password-2626309](https://www.lifewire.com/step-by-step-guide-to-resetting-a-windows-7-password-2626309)
+* [http://www.digitalcitizen.life/command-prompt-advanced-disk-management-commands](http://www.digitalcitizen.life/command-prompt-advanced-disk-management-commands)
