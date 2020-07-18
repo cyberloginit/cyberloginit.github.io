@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: D-Link SharePort Web Access Authentication Bypass
+title: D-Link SharePort Web Access Authentication Bypass
 ---
 
 # D-Link SharePort Web Access Authentication Bypass
